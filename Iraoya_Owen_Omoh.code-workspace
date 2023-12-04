@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "../../javascript course/Iraoya_Owen_Omoh"
+	},
+	{
+		"path": "../../javascript course/js"
+	},
+	{
+		"path": ".."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "Iraoya_Owen_Omoh"
+  }
+}
