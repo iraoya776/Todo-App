@@ -59,7 +59,7 @@ export function TodoList() {
                     marginLeft: 100,
                 }}>
 
-                    <Text style={{color: "white", fontWeight: "bold",}}>Add to List</Text>
+                    <Text style={{color: "white", fontWeight: "bold"}}>Add to List</Text>
                 </TouchableOpacity>
                 {/* {
                     List.map(item => {
